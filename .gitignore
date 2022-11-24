@@ -4,9 +4,13 @@ build/
 node_modules/
 tmp/
 pid/
+Dossier/
 *.log
 Thumbs.db
 .DS_Store
 
+
  # à inclure malgré les regles de cacher son dossier
  !incluremalgrelesregles.txt
+
+ # Les commentaires commencent par un #
