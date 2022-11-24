@@ -9,8 +9,9 @@ Dossier/
 Thumbs.db
 .DS_Store
 
+# encore un commentaire
 
- # à inclure malgré les regles de cacher son dossier
+# à inclure malgré les regles de cacher son dossier
  !incluremalgrelesregles.txt
 
  # Les commentaires commencent par un #
