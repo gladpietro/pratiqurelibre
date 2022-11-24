@@ -1,0 +1,3 @@
+Git fetch
+Git fetch permet à un utilisateur d’extraire tous les fichiers du dépôt distant qui ne sont pas actuellement dans le répertoire de travail local. 
+Exemple d’utilisation: git fetch origin
